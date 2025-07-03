@@ -13,7 +13,7 @@
 ### 🛠️ Tech Stack
 
 #### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,c,c#,java,javascript,typescript,react,node.js,php" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,c,c++,java,javascript,typescript,react,node.js,php" /> <br /><br />
 
 
 #### Tools & Environments
