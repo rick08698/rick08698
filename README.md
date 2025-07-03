@@ -13,18 +13,11 @@
 ### 🛠️ Tech Stack
 
 #### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-FF6F00?style=for-the-badge&logo=React&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,c,c#,java,javascript,typescript,react,node.js,php" /> <br /><br />
 
 
 #### Tools & Environments
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=linux,anaconda,vscode,raspberrypi,notion" /> <br /><br />
 
 
 ---
