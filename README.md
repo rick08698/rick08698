@@ -13,11 +13,11 @@
 ### 🛠️ Tech Stack
 
 #### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,c,c++,java,javascript,typescript,react,node.js,php" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,c,java,javascript,typescript,html,css,swift,react,nodejs,vite-dark,php,tensorflow,pytorch" /> <br /><br />
 
 
 #### Tools & Environments
-<img src="https://skillicons.dev/icons?i=linux,anaconda,vscode,raspberrypi,notion" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=linux,windows,git,github,anaconda,vscode,ubuntu,raspberrypi,mongodb,notion,discord" /> <br /><br />
 
 
 ---
